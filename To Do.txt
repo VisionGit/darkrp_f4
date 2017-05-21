@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 To Do/Finish:
 
 - Categorised jobs.										=============NOT STARTED
@@ -21,3 +22,28 @@ To Do/Finish:
   
 DASHBOARD:
 - Regiment Name.(category)							    =============NOT STARTED
+=======
+To Do/Finish:
+
+- Categorised jobs.										=============NOT STARTED
+
+- Complete Main Menu Including:         			    =============CHECK
+
+  - Logo												=============CHECK
+
+  - Model 												=============CHECK
+  
+  - Main Container										=============CHECK
+  
+  - Health Bar											=============CHECK
+
+  - Armour Bar											=============CHECK
+  
+  - Money												=============CHECK
+  
+  - Level + Level Bar at the bottom						=============CHECK
+  
+  
+DASHBOARD:
+- Regiment Name.(category)							    =============NOT STARTED
+>>>>>>> 1486e02eb9f5aec7a040d6bf906aa63a27203964
